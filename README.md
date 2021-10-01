@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChaeyeonHan)](https://github.com/anuraghazra/github-readme-stats)
+[![TOP Langs](https://github-readme-status.vercel.app/api/top-langs/?username=ChaeyeonHan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
