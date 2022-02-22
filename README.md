@@ -13,20 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeyeonHan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 -->
-
 
 - 🌱 I’m currently learning Deep Learning, Spring, Algorithm.
 - 📫 How to reach me: kate2236e@gmail.com
 - 💡 blog :
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeyeonHan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
