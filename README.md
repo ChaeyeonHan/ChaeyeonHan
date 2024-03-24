@@ -15,12 +15,14 @@
 
 Backend Developer (Google Developer Experts✨) <br>
 서로 배움을 나누며 성장할 수 있다는 점에서 개발에 매력을 느낍니다.<br>
+"소통"하며 "함께" 성장하는 개발자<br>
 구조와 설계에 대해 관심을 갖고 코드 한 줄마다 저의 생각을 담는 개발자를 꿈꾸고 있습니다.<br>
+많은 사람들과 교류하며, 서로 긍정적인 자극을 주고 받으며 성장하고 싶습니다! <br><br>
 
 ### 💡 Plan to
 SQLD <br>
 AWS Certified Solutions Architect - Associate <br>
-알고리즘 <br>
+알고리즘 <br><br>
 
 ### 🌱 Learning
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <!-- python -->
