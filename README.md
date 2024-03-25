@@ -22,7 +22,7 @@ Backend Developer (Google Developer Experts✨) <br>
 ### 💡 Plan to
 SQLD <br>
 AWS Certified Solutions Architect - Associate <br>
-알고리즘 <br><br>
+Algorithm <br><br>
 
 ### 🌱 Learning
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <!-- python -->
