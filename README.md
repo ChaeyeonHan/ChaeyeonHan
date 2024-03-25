@@ -38,7 +38,6 @@ Algorithm <br><br>
 
 ### 🏢 Experience: 
 
-<!DOCTYPE html>
 <html lang="en">
 <body>
 
