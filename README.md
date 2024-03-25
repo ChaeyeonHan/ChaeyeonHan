@@ -34,16 +34,50 @@ Algorithm <br><br>
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <!-- git -->
 
-
+<br>
 
 ### 🏢 Experience: 
-| Period | Company | Program |
-|-------|:--------:|:---------:|
-| `2024.03.` ~ `current` | 신한투자증권 | 프로 디지털 아카데미 4기  |
-| `2023.11.` ~ `current` | 창업동아리 'KIDING' | Backend Developer |
-| `2023.12.` ~ `2024.01.` | 한국과학기술원 | 몰입캠프 참여 |
-| `2022.09.` ~ `2023.07.` | Google Developer Student Clubs Sookmyung | 22-23 Member |
-| `2022.08.` ~ `2022.10.` | KB 국민은행 소프트웨어 경진대회 참여 | Backend Developer |
+
+<!DOCTYPE html>
+<html lang="en">
+<body>
+
+<table>
+  <tr>
+    <th>Period</th>
+    <th>Company</th>
+    <th>Program</th>
+  </tr>
+  <tr>
+    <td>2024.03. - current</td>
+    <td>신한투자증권</td>
+    <td>프로 디지털 아카데미 4기</td>
+  </tr>
+  <tr>
+    <td>2023.11. - current</td>
+    <td>창업동아리 'KIDING'</td>
+    <td>Backend Developer</td>
+  </tr>
+  <tr>
+    <td>2023.12. - 2024.01.</td>
+    <td>한국과학기술원</td>
+    <td>몰입캠프 참여</td>
+  </tr>
+  <tr>
+    <td>2022.09. - 2023.07.</td>
+    <td>Google Developer Student Clubs Sookmyung</td>
+    <td>22-23 Member</td>
+  </tr>
+  <tr>
+    <td>2022.08. - 2022.10.</td>
+    <td>KB 국민은행</td>
+    <td>소프트웨어 경진대회 참여</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
 
 ### 🏅 Stat:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChaeyeonHan)](https://github.com/anuraghazra/github-readme-stats)
