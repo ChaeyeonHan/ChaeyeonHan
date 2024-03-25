@@ -20,9 +20,9 @@ Backend Developer (Google Developer Experts✨) <br>
 많은 사람들과 교류하며, 서로 긍정적인 자극을 주고 받으며 성장하고 싶습니다! <br><br>
 
 ### 💡 Plan to
-SQLD <br>
-AWS Certified Solutions Architect - Associate <br>
-Algorithm <br><br>
+- SQLD <br>
+- AWS Certified Solutions Architect - Associate <br>
+- Algorithm <br><br>
 
 ### 🌱 Learning
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <!-- python -->
